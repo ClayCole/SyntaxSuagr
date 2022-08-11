@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "H2QuOe47Ma4yKcKVuZlNI/808K1yZEV3W+2Jz8lE3cEz+fBVXOR+tCZf/hmHQjKLDliIMZYWuW8I62Qud6pWDA==",
+  "dgSpecHash": "ZBzaULh4oIIg92bjLxDc43jAu8UwXZUJZjOWQMSCb6a8jitIJkTtF/Cqc/2B3rfy24PbsQ8Sc2txl8uGBFYBVg==",
   "success": true,
   "projectFilePath": "/Users/claycoleman/Desktop/Repos/SyntaxSugarExcerise/SyntaxSugarExcerise/SyntaxSugarExcerise.csproj",
   "expectedPackageFiles": [
     "/Users/claycoleman/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
     "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
